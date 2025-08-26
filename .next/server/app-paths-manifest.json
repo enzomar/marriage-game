@@ -1,5 +1,0 @@
-{
-  "/api/add-question/route": "app/api/add-question/route.js",
-  "/page": "app/page.js",
-  "/api/questions/route": "app/api/questions/route.js"
-}
